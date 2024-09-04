@@ -1,0 +1,214 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: transparent;
+    transition: all 0.5s;
+}
+
+.navbar-scrolled{
+    background-color: rgb(136, 136, 136);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+.nav-item a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: all 0.5s;
+    font-family: "Nunito", sans-serif;
+}
+
+.nav-item a:hover{
+    color: crimson;
+}
+
+.navbar-brand{
+    margin-left: 50px;
+    height: 100px;
+    width: 100px;
+}
+
+.search{
+    height: 45px;
+    outline: none;
+    border: 2px solid crimson;
+    border-radius: 20px 0px 0px 20px;
+    border-right: none;
+    box-shadow: none;
+    font-family: "Nunito", sans-serif;
+}
+
+.search:focus{
+    outline: 2px;
+    box-shadow: 2px crimson;
+    border: 2px solid crimson;
+    border-right: none;
+}
+
+.btn1{
+    height: 45px;
+    outline: none;
+    border: none;
+    background-color: crimson;
+    color: white;
+    border-radius: 0px 20px 20px 0px;
+    transition: all 0.5s;
+    font-family: "Nunito", sans-serif;
+}
+
+.btn1:hover{
+    background-color: rgb(119, 12, 33);
+}
+
+.bi-cart{
+    font-size: 30px;
+    color: crimson;
+    cursor: pointer;
+    padding-top: 5px;
+}
+
+.bi-cart:hover{
+    color: rgb(119, 12, 33);
+}
+
+.navbar-toggler{
+    font-size: 30px;
+    color: crimson;
+    cursor: pointer;
+    padding-top: 5px;
+}
+
+.navbar-toggler:focus{
+    outline: none;
+    box-shadow: none;
+    color: rgb(119, 12, 33);
+}
+
+.navbar-toggler:hover{
+    color: rgb(119, 12, 33);
+}
+
+.main{
+    background: url(./img/04.jpg)no-repeat;
+    /*background-color: white;*/
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.main h1{
+    font-size: 7rem;
+    color: white;
+    font-family: "Righteous", sans-serif;
+}
+
+.main p{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Nunito", sans-serif;
+}
+
+.mbtn1{
+    height: 50px;
+    width: 25%;
+    outline: none;
+    border: 2px solid white;
+    color: white;
+    background-color:transparent;
+    border-radius: 50px;
+    transition: all 0.3s;
+    font-weight: 500;
+    font-family: "Nunito", sans-serif;
+}
+
+.mbtn1:hover{
+    background-color: rgb(243, 43, 83);
+    border: none;
+    transition: all 0.5s;
+}
+
+.mbtn2{
+    height: 50px;
+    width: 25%;
+    outline: none;
+    border: none;
+    color: white;
+    background-color: rgb(243, 43, 83);
+    border-radius: 50px;
+    transition: all 0.3s;
+    font-weight: 500;
+    font-family: "Nunito", sans-serif;
+}
+
+.mbtn2:hover{
+    background-color:  rgb(119, 12, 33);
+    transition: all 0.5s;
+}
+
+.about{
+    background: url(./img/07.png) no-repeat;
+    background-size: contain;
+    height: 90vh;
+    width: 100%;
+    font-family: "Nunito", sans-serif;
+}
+
+.line{
+    height: 4px;
+    width: 45%;
+    background-color: crimson;
+    display: inline-block;
+}
+
+.about h1{
+    font-size: 3rem;
+    font-family: "Righteous", sans-serif;
+}
+
+.about p{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Nunito", sans-serif;
+}
+
+.product h1{
+    font-size: 3rem;
+    font-family: "Righteous", sans-serif;
+}
+
+.product p{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Nunito", sans-serif;
+}
+
+.footer{
+    background: rgb(119, 12, 33);
+    color: white;
+}
+
+.footer i{
+    height: 40px;
+    width: 40px;
+    border: 1px solid white;
+    color: white;
+    border-radius: 50%;
+    background-color: transparent;
+    display: inline-block;
+    text-align: center;
+    padding: 9px;
+    margin-left: 10px;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.footer i:hover{
+    background-color: rgb(243, 43, 83);
+    border: none;
+}
