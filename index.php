@@ -41,17 +41,17 @@
             </a>
           </li>
           <li class="nav-item m-2"> <!--Shop-->
-            <a class="nav-link" href="../Froilan_Catalog/catalog.php">
+            <a class="nav-link" href="Catalog/catalog.php">
               Shop
             </a>
           </li>
           <li class="nav-item m-2"> <!--About Us-->
-            <a class="nav-link" href="../Francine_About-Contact/about_us.php">
+            <a class="nav-link" href="About_Contact/about_us.php">
               About Us
             </a>
           </li>
           <li class="nav-item m-2">
-            <a class="nav-link" href="../Francine_About-Contact/contact_us.php"> <!--Contact Us-->
+            <a class="nav-link" href="About_Contact/contact_us.php"> <!--Contact Us-->
               Contact Us
             </a>
           </li>
@@ -59,7 +59,7 @@
         <form class="d-flex">
           <input class="px-2 search" type="search" placeholder="Search" aria-label="Search">
           <button class="btn1 me-3 px-3" type="submit">Search</button>
-          <a href="../Clark_Cart-Checkout/index.php" data-toggle="tooltip" title="Your Cart"><i class="bi bi-cart"></i></a>
+          <a href="Cart_Checkout/index.php" data-toggle="tooltip" title="Your Cart"><i class="bi bi-cart"></i></a>
         </form>
       </div>
     </div>
@@ -112,7 +112,7 @@
       <div class="row text-center">
         <div class="col-lg-6 m-auto">
           <p>
-            <a href="https://github.com/aubs7/AppDevFinalProj.git"><i class="bi bi-github"></i></a>
+            <a href="https://github.com/ClarkBelen/ECommerce-Website"><i class="bi bi-github"></i></a>
             Made by NEU 3BSCS-1 students
           </p>
         </div>

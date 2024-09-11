@@ -98,8 +98,8 @@
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
                         <span class="glyphicon glyphicon-menu-hamburger burger"></span>
                     </button>
-                    <a class="navbar-brand" href="../Aubrey_Home/index.html">
-                        <img src="../Aubrey_Home/img/logo.png" class="logo"
+                    <a class="navbar-brand" href="../index.php">
+                        <img src="../img/logo.png" class="logo"
                         alt="Urban Soles logo" style="display: inline-block;">
                     </a>
                 </div>
@@ -110,10 +110,10 @@
                 </div>
                 <div class="collapse navbar-collapse text-center" id="myNavbar">
                     <ul class="nav navbar-nav" style="margin-left:175px;">
-                        <li><a href="../Aubrey_Home/index.php">Home</a></li>
-                        <li><a href="../Froilan_Catalog/catalog.php">Shop</a></li>
-                        <li><a href="../Francine_About-Contact/about_us.php">About Us</a></li>
-                        <li><a href="../Francine_About-Contact/contact_us.php">Contact Us</a></li>
+                        <li><a href="../index.php">Home</a></li>
+                        <li><a href="../Catalog/catalog.php">Shop</a></li>
+                        <li><a href="../About_Contact/about_us.php">About Us</a></li>
+                        <li><a href="../About_Contact/contact_us.php">Contact Us</a></li>
                     </ul>
                 </div>
             </div>

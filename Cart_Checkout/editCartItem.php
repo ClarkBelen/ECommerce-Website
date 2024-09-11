@@ -38,7 +38,7 @@
                 </div>
                 
                 <div class="continueShop text-center">
-                    <a href="../Froilan_Catalog/catalog.php">Continue Shopping</a>
+                    <a href="../Catalog/catalog.php">Continue Shopping</a>
                 </div>
                 <br>
             </div> 
