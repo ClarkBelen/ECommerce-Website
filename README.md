@@ -23,11 +23,12 @@ WEBSITE: [http://urban-soles.infinityfreeapp.com/](http://urban-soles.infinityfr
 ![image](https://github.com/user-attachments/assets/56c42b1a-a842-42b0-b8d0-17dca68dd5e7)
 
 
+
 ## Developers
-Lasala, Aubrey Min M. | Home Page
-Delfin Jr., Froilan E. | Shop/Catalog Page
-Belen, Clark C. | Cart & Checkout Page
-Macabales, Francine Ella G. | About & Contact Page
+- **LASALA, AUBREY MIN M.**  (Home Page)
+- **DELFIN JR., FROILAN E.**  (Shop/Catalog Page)
+- **BELEN, CLARK C.**  (Cart & Checkout Page)
+- **MACABALES, FRANCINE ELLA G.**  (About & Contact Page)
 
 #
 Feel free to contact us for admin-side website :>
