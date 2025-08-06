@@ -2,7 +2,7 @@
 Final Project in Applications Development &amp; Emerging Technologies | Responsive Web Development Using Bootstrap
 
 ## Final Outcome
-WEBSITE: [http://urban-soles.infinityfreeapp.com/](http://urban-soles.infinityfreeapp.com/)
+WEBSITE: [https://urbansoles-ecommerce.kesug.com/index.php](https://urbansoles-ecommerce.kesug.com/index.php)
 
 ### Cart Main Page
 ![image](https://github.com/user-attachments/assets/64279def-4812-49e2-95f9-1f545c5eb1f8)
